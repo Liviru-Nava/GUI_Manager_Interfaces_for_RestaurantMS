@@ -1,0 +1,57 @@
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\ProjectRestaurantMS.exe.config
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\ProjectRestaurantMS.exe
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\ProjectRestaurantMS.pdb
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.exe
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.pdb
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\RestSharp.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.CodeDom.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Data.Odbc.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Data.OleDb.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Drawing.Common.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.IO.Packaging.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.IO.Ports.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Memory.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.ManagerMain.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.csproj.Fody.CopyLocal.cache
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.EmployeeRegistration.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.DailyStats.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.statsOrders.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.statsRevenue.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.statsDining.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.EmployeeDetails.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.deleteDetails.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.updateDetails.resources
+C:\Users\ASUS\OneDrive\Desktop\GAD PROJECT\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.viewDetails.resources
+C:\Users\ASUS\OneDrive\Documents\ProjectRestaurantMS\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\ProjectRestaurantMS\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Documents\ProjectRestaurantMS\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.exe
+C:\Users\ASUS\OneDrive\Documents\ProjectRestaurantMS\ProjectRestaurantMS\obj\Debug\ProjectRestaurantMS.pdb

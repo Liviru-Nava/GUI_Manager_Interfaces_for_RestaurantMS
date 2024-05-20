@@ -1,0 +1,18 @@
+1. ^ means start with
+2. $ means End with
+3. [] means range
+4. () means group
+5. .- means Single character once
+6. + means one or more characters in a row
+7. ? means optional preceding character match
+8. \ means escape character
+9. \n means new line
+10. \d means digit
+11. \D means non-digit
+12. \s means white space
+13. \S means non-white space
+14. \w means alphanumeric/ underscore characters (word chars)
+15. \W means non-character words
+16. {x, y} means repeat low (x) to high(y) 
+17. (x|y) alternative, x or y
+18. [^x] means anything but x ( x can be whatever character we want)

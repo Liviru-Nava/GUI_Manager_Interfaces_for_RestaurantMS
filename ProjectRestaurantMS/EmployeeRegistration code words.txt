@@ -1,0 +1,31 @@
+employee registration form
+
+position - cmb_Position
+employee ID - txt_ID
+first name - txt_fname
+last name - txt_lname
+gender - rbtn_gender
+email address - txt_email
+telephone - txt_tp
+address - txt_address
+DOB - txt_DOB
+age - txt_age
+username - txt_username
+password - txt_password
+
+upload button - btn_upload
+save button- btn_save
+picturebox - register_picturebox
+
+position - lbl_position
+employee id - lbl_empID
+first name - lbl_firstname
+last name - lbl_lastname
+gender - lbl_gender
+email address - lbl_Email
+Telephone - lbl_telephone
+Address - lbl_Address
+DOB -lbl_DOB
+Age - lbl_Age
+username - lbl_Username
+password - lbl_Pasword
